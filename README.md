@@ -2,8 +2,8 @@
 
 I'm langezhang, a back-end developer and LLM explorer.
 
-- 🪪 **MS Student** at The Hong Kong Polytechnic University, major in IT/Information Technology.
-- 🎓 Southeast University, B.S.
+- 🎓 Southeast University -> Hong Kong Polytechnic University.
+- 🪪 I'm a MS student majoring in **IT/Information Technology.**
 - 🔭 I'm currently working on **an LLM agent development project.**
 - 🌱 I'm currently learning **LLM, Agent, RAG, Tools, SFT and LoRA related technologies.**
 - 👯 I'm looking to collaborate on **like-minded friends to participate in AI-related competitions together.**
