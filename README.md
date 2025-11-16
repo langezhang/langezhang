@@ -1,6 +1,6 @@
-## Hi, Here👋 
+## Hi, this is 东方芷兰👋 
 
-I'm Celeste Zhang, a back-end developer and LLM explorer.
+I'm langezhang, a back-end developer and LLM explorer.
 
 - 🪪 **MS Student** at The Hong Kong Polytechnic University, major in IT/Information Technology.
 - 🎓 Southeast University, B.S.
